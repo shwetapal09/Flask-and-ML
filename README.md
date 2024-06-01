@@ -9,7 +9,7 @@ This web app allows users to input their symptoms and receive potential disease 
 
 3.Additional Information: Provides descriptions, precautions, and recommended actions for predicted diseases.
 
-## Getting Started
+# Getting Started
 1.Clone the Repository: git clone https://github.com/your-username/symptom-based-disease-diagnosis-web-app.git
 
 2.Install Dependencies: pip install -r requirements.txt
